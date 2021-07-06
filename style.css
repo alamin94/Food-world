@@ -14,7 +14,7 @@ body{
 	max-width: 80%;
 	margin: auto;
 }
-
+/* menu css part start here  */
 .logo{
 	float: left;
     font-size: 70px;
@@ -59,20 +59,22 @@ body{
     color: white;
   }
 
-
-
-
 a{
 	text-decoration: none;
 }
 ul,ol{
 	list-style: none;
 }
+
+/* menu css part End here  */
 .container{
 	max-width: 80%;
 	margin: auto;
 }
+/* Menu css part End here  */
 
+
+/* Banner css part start here  */
 .banner-area{
     /* margin-top: 200px; */
     padding-left: 9%;
@@ -129,8 +131,12 @@ h1{
     font-size: 50px;
 }
 h1 span{
-    color: rgb(8, 204, 34);
+    color: rgb(230, 152, 26);
 }
+/* Banner css part End here  */
+
+/* about me css part start here  */
+
 .dream-area{
     background-image: url("images/backCover_photo-v2-.png");
     background-repeat: no-repeat;
@@ -149,7 +155,9 @@ h2{
     padding-right: 26%;
     margin-bottom: 120px;
 }
+/* about me css part End  here  */
 
+/* Card css part start here  */
 .card-area{
     display: flex;
     margin-top: 100px;
@@ -168,8 +176,9 @@ h2{
     height:424px;
 }
 
+/* Card css part End here  */
 
-/* Counter part css start here */
+/* social_media css start here */
 
 
 #social_media{
@@ -193,12 +202,12 @@ h2{
     color: black;
 }
 
+/* social_media css End here */
 
 
 
 
-
-
+/* Footer part css start here */
 
 .footer-area{
     background-color: black;
@@ -215,7 +224,7 @@ footer p{
   padding-bottom: 30px;
 }
 
-
+/* Footer part css End here */
 
 
 
